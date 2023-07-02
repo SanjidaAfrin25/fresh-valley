@@ -1,0 +1,79 @@
+.body{
+    
+        margin: 0;  
+        padding: 0;  
+        background-color:#6abadeba;  
+        font-family: 'Arial';  
+     
+}
+
+
+.login{  
+    width: 500px;  
+    overflow: hidden;  
+    margin: auto;  
+    margin: 20 0 0 450px;  
+    padding: 80px;  
+    background: rgb(57, 124, 211);  
+    border-radius: 15px ;  
+      
+}  
+.h2{  
+text-align: center;  
+color: #277582;  
+padding: 20px;  
+}  
+label{  
+color: #08ffd1;  
+font-size: 17px;  
+}  
+#Uname{  
+width: 300px;  
+height: 30px;  
+border: none;  
+border-radius: 3px;  
+padding-left: 8px;  
+}  
+#Pass{  
+width: 300px;  
+height: 30px;  
+border: none;  
+border-radius: 3px;  
+padding-left: 8px;  
+  
+}  
+#log{  
+width: 300px;  
+height: 30px;  
+border: none;  
+border-radius: 17px;  
+padding-left: 7px;  
+color:gray; 
+margin-top: 20px; 
+
+
+}  
+span{  
+color: white;  
+font-size: 17px;  
+}  
+.a{  
+float: right;  
+ 
+text-decoration: none; 
+color:white;
+} 
+.center{
+    margin-right: 100px;
+}
+input.button-add{
+    background-image: url(https://i.ibb.co/c2kb4fv/google.jpg);
+    background-color: transparent; /* make the button transparent */
+    background-repeat: no-repeat;  /* make the background image appear only once */
+    background-position: 0px 0px;  /* equivalent to 'top left' */
+    border: none;           /* assuming we don't want any borders */
+    cursor: pointer;        /* make the cursor like hovering over an <a> element */
+    height: 16px;           /* make this the size of your image */
+    padding-left: 16px;     /* make text start to the right of the image */
+    vertical-align: middle;
+}
